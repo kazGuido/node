@@ -1,8 +1,8 @@
 ## Save the .sh file and run the following.
 
 ```
-chmod +x setup_hl.sh
-sudo ./hyperliquid/setup_hl.sh 
+chmod +x ./setup_hl.sh
+sudo ./setup_hl.sh 
 ```
 
 
