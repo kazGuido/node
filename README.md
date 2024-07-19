@@ -2,9 +2,9 @@
 
 ```
 chmod +x setup_hl.sh
-```
 sudo ./hyperliquid/setup_hl.sh 
 ```
+
 
 
 # BELOW ARE THE ORIGINAL INSTRUCTIONS, I SIMPLY MADE A SCRIPT TO RUN TO MAKE IT RUN IN ONE LINE.
